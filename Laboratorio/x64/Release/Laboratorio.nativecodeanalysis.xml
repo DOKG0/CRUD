@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Agustin\Documents\#Visual Comunity proyectos\Laboratorio\Laboratorio\</FILEPATH>
+      <FILENAME>Laboratorio.cpp</FILENAME>
+      <LINE>121</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Se omitió el valor devuelto: 'getchar'.</DESCRIPTION>
+    <FUNCTION>ingopcion</FUNCTION>
+    <DECORATED>?ingopcion@@YAHXZ</DECORATED>
+    <FUNCLINE>113</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
